@@ -10,12 +10,12 @@ import {
   Menu,
   X
 } from "lucide-react";
-import Logo from "../../vite-project/src/assets/Logo-Brotherhede.png";
-import Slider1 from "../../vite-project/src/assets/slider-1.jpg";
-import Slider2 from "../../vite-project/src/assets/slider-2.jpg";
-import Slider3 from "../../vite-project/src/assets/slider-3.jpg";
-import Slider4 from "../../vite-project/src/assets/slider-1.jpg";
-import Slider5 from "../../vite-project/src/assets/slider-2.jpg";
+import Logo from "../src/assets/Logo-Brotherhede.png";
+import Slider1 from "../src/assets/slider-1.jpg";
+import Slider2 from "../src/assets/slider-2.jpg";
+import Slider3 from "../src/assets/slider-3.jpg";
+import Slider4 from "../src/assets/slider-1.jpg";
+import Slider5 from "../src/assets/slider-2.jpg";
 
 import aboutImg from "../src/assets/about-us.jpg";
 
